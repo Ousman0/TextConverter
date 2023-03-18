@@ -1,0 +1,25 @@
+.dark{
+    background-color: #0e0e0e;
+}
+
+.align{
+    text-align: left;
+    margin-left: 10px;
+}
+
+
+.btns{
+display: flex;
+
+}
+.tc{
+    width: max-content;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.gpt{
+    display: contents;
+}
