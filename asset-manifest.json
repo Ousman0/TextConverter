@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextConverter/static/css/main.b504056e.css",
-    "main.js": "/TextConverter/static/js/main.e3b75d61.js",
-    "static/js/787.e6adca6c.chunk.js": "/TextConverter/static/js/787.e6adca6c.chunk.js",
-    "index.html": "/TextConverter/index.html",
-    "main.b504056e.css.map": "/TextConverter/static/css/main.b504056e.css.map",
-    "main.e3b75d61.js.map": "/TextConverter/static/js/main.e3b75d61.js.map",
-    "787.e6adca6c.chunk.js.map": "/TextConverter/static/js/787.e6adca6c.chunk.js.map"
+    "main.css": "/TextEditor/static/css/main.b504056e.css",
+    "main.js": "/TextEditor/static/js/main.f627c759.js",
+    "static/js/787.e6adca6c.chunk.js": "/TextEditor/static/js/787.e6adca6c.chunk.js",
+    "index.html": "/TextEditor/index.html",
+    "main.b504056e.css.map": "/TextEditor/static/css/main.b504056e.css.map",
+    "main.f627c759.js.map": "/TextEditor/static/js/main.f627c759.js.map",
+    "787.e6adca6c.chunk.js.map": "/TextEditor/static/js/787.e6adca6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b504056e.css",
-    "static/js/main.e3b75d61.js"
+    "static/js/main.f627c759.js"
   ]
 }
