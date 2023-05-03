@@ -32,9 +32,9 @@ Textconverter(props) {
     props.ShowAlert('Text Converted To All First UpperCase','success');
   };
   const handleOnclick6 = () => {
-    let Updata2 = navigator.clipboard.writeText(Data);
-    setData(Updata2);
-    props.ShowAlert('Text Copied','success');
+    navigator.clipboard.writeText(Data); 
+    props.ShowAlert("Copied to Clipboard!", "success");
+
   };
   const handleOnclick7 = () => {
     console.log('clicked7')
